@@ -160,7 +160,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "active_reward" : "false",
             "name" : "Questions",
             "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
