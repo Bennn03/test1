@@ -241,8 +241,50 @@
         }
     ],
     
-    "games" : [
-       
+     "games" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://gabigames.co/wp-content/uploads/slither.io-game.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://www.techmen.net/wp-content/uploads/2018/05/Supersnake.io_.png",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://mydailyspins.com/wp-content/uploads/2021/11/maxresdefault-5.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://cdn6.aptoide.com/imgs/2/6/3/2636c71a259b1b38a1b562343edce404_fgraphic.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://image.winudf.com/v2/image1/Y29tLm15Z2FtZXNpc2xhbmQuaXMuc25ha2Vfc2NyZWVuXzRfMTY0NTU3MzY4NV8wODE/screen-4.jpg?fakeurl=1&type=.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://image.winudf.com/v2/image/Y29tLnNuYWtlZ2FtZS5zbmFrZS5pb19zY3JlZW5fMTJfMTUzNTEwNjU1NV8wNjk/screen-12.jpg?fakeurl=1&type=.jpg",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
 
     ],
     
